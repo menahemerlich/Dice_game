@@ -1,6 +1,5 @@
-from game import roll_two_d6, tie_breaker, turn_decision
+from game import play_game
 
-turn_decision()
 
-#print(tie_breaker())
+play_game()
 
